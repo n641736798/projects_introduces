@@ -5,6 +5,7 @@
     
 
 调整后版本：
+https://github.com/n641736798/Qt-Gui-Hospital/tree/master
 （1）UI调整，整体变为暖色。
 
 （2）增加了病人的管理逻辑，并且连接到了MySQL数据库。
